@@ -1,0 +1,36 @@
+bin\Debug\eGuard  Contact Manager.exe
+bin\Debug\eGuard  Contact Manager.pdb
+bin\Debug\eGuard  Contact Manager.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\eGuard__Contact_Manager.Resources.resources
+obj\Debug\eGuard  Contact Manager.vbproj.GenerateResource.Cache
+obj\Debug\eGuard  Contact Manager.exe
+obj\Debug\eGuard  Contact Manager.xml
+obj\Debug\eGuard  Contact Manager.pdb
+bin\Debug\eGuard  Contact Manager.exe.config
+obj\Debug\eGuard__Contact_Manager.Main.resources
+obj\Debug\eGuard__Contact_Manager.TypeEditor.resources
+obj\Debug\eGuard__Contact_Manager.ContactViewer.resources
+bin\Debug\Data.src
+bin\Debug\ICSharpCode.SharpZipLib.dll
+bin\Debug\Manual.CHM
+obj\Debug\eGuard__Contact_Manager.AboutBox1.resources
+obj\Debug\eGuard__Contact_Manager.FrmChangePwd.resources
+bin\Release\Data.src
+bin\Release\Manual.CHM
+bin\Release\eGuard  Contact Manager.exe.config
+bin\Release\eGuard  Contact Manager.exe
+bin\Release\eGuard  Contact Manager.pdb
+bin\Release\eGuard  Contact Manager.xml
+bin\Release\ICSharpCode.SharpZipLib.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\eGuard__Contact_Manager.FrmChangePwd.resources
+obj\Release\eGuard__Contact_Manager.AboutBox1.resources
+obj\Release\eGuard__Contact_Manager.ContactViewer.resources
+obj\Release\eGuard__Contact_Manager.TypeEditor.resources
+obj\Release\eGuard__Contact_Manager.Main.resources
+obj\Release\eGuard__Contact_Manager.Resources.resources
+obj\Release\eGuard  Contact Manager.vbproj.GenerateResource.Cache
+obj\Release\eGuard  Contact Manager.exe
+obj\Release\eGuard  Contact Manager.xml
+obj\Release\eGuard  Contact Manager.pdb
